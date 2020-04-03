@@ -1,6 +1,6 @@
 ﻿namespace GitHubExperiment
 {
-    partial class Form1
+    partial class MyTest
     {
         /// <summary>
         /// Required designer variable.
